@@ -1,0 +1,7 @@
+[19-Nov-2020 11:49:16 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kahe6122/public_html/tes/login-bootstrap4/login-process.php on line 10
+[19-Nov-2020 11:53:10 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kahe6122/public_html/tes/login-process.php on line 10
+[27-Nov-2020 19:08:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kahe6122_p'@'localhost' to database 'ahe6122_p' in /home/kahe6122/public_html/arduino/dataline.php on line 2
+[27-Nov-2020 19:08:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/kahe6122/public_html/arduino/dataline.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kahe6122/public_html/arduino/dataline.php on line 5
